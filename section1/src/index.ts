@@ -1,2 +1,1 @@
-console.log('hi')
-const a:number = 1
+const func = () => console.log('hi')
